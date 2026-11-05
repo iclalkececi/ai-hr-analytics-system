@@ -218,3 +218,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Veri klasörleri (Depoya yüklenmeyecekler)
+CV_Proje_Verileri/
+Burnout_Verileri/
+ciktilar/
+*.csv
+*.xlsx
