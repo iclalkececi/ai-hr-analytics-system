@@ -223,5 +223,4 @@ __marimo__/
 CV_Proje_Verileri/
 Burnout_Verileri/
 ciktilar/
-*.csv
-*.xlsx
+ciktilar/cv_tablosu.csv
